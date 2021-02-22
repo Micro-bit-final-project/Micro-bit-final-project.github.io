@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Further engine minigame development"  
 date: 2021-01-18 19:41:00 +0000  
 categories: game

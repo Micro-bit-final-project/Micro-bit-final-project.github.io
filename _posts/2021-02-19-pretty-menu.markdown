@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Pretty menu"  
 date: 2021-02-19 19:20:00 +0000  
 categories: game

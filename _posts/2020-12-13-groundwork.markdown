@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Groundwork"
 date:   2020-12-13 18:00:00 +0000
 categories: groundwork

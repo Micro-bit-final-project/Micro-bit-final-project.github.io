@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Connection Directions"  
 date: 2021-01-23 17:20:00 +0000  
 categories: game

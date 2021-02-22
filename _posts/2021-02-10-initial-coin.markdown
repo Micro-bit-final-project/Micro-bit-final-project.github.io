@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Initial coin minigame"  
 date: 2021-02-10 19:00:00 +0000  
 categories: game

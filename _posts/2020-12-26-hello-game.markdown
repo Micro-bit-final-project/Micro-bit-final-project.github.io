@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Hello game!"
 date:   2020-12-26 10:55:00 +0000
 categories: game

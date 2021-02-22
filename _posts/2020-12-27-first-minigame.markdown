@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "First mini-game"  
 date: 2020-12-27 20:00:00 +0000  
 categories: game

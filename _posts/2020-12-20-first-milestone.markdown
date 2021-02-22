@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "First milestone"
 date:   2020-12-20 19:00:00 +0000
 categories: game

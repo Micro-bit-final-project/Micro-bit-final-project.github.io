@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "The micro:bit receives!"
 date:   2020-12-15 20:00:00 +0000
 categories: groundwork

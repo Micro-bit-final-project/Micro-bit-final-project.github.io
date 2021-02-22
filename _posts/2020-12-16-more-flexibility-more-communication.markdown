@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "More flexibility, more communication"
 date:   2020-12-16 20:00:00 +0000
 categories: groundwork

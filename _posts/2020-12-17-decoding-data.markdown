@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Decoding data"
 date:   2020-12-17 19:00:00 +0000
 categories: groundwork

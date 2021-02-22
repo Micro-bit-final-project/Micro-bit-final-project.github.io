@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Initial engine minigame"  
 date: 2021-01-15 20:00:00 +0000  
 categories: game

@@ -1,5 +1,5 @@
 ---  
-layout: post  
+layout: article  
 title: "Complete wheelie minigame mechanic"  
 date: 2020-12-28 20:00:00 +0000  
 categories: game

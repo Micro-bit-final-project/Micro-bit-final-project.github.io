@@ -1,0 +1,9 @@
+---
+layout: article
+title: "General NLE Setup + Fusion Comp test"
+date: 2021-04-10 11:52:00 +0000
+categories: video
+author: Srikanth Jakka
+---
+
+The NLE used to make the video is BlackMagic's Davinci Resolve. After taking a week to learn the in's and out's of this very powerful NLE (with experience from Final Cut Pro), I created an interesting animation for the intro with a retro TV showing our game to make the video stand out. I created the first timeline with some stock footage to imagine how long a 2 minute advert would be.

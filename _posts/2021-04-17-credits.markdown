@@ -1,0 +1,9 @@
+---
+layout: article
+title: "Credits"
+date: 2021-04-17 13:10:00 +0000
+categories: game
+author: Giuseppe Barillari
+---
+
+The credits screen has been implemented. It loads the credits from the crdits.txt file to then display them scrolling from the bottom of the window to the top.

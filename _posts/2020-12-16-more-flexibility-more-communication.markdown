@@ -7,3 +7,4 @@ author: Giuseppe Barillari
 ---
 
 Due to synchronisation issues, a workaround not to lose serial data had to be found. The workaround is the implementation of a confirmation logic during the serial communication. Whenever the microbit writes to the serial, it will wait for a reply from the computer to write more data. And vice-versa, the computer will wait for confrimation from the microbit before writing data to the serial buffer.
+The microbit sends out a serial packet containing a simple "Y" once it is ready to continue. The computer does the same, however the computer can also send an "R" to let the microbit know some data is coming so that it can listen.

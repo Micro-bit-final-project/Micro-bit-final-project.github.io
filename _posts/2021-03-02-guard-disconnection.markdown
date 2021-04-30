@@ -7,3 +7,4 @@ author: Giuseppe Barillari
 ---  
 
 Now the game stops if the microbit gets disconnected, and the user is prompted to restart the game.
+The disconnection is detected through an exception raised by the serial communication module.

@@ -1,15 +1,9 @@
 ---
-
 layout: article
-
 title: "Idea Brainstorming"
-
 date: 2021-02-22 17:33:00 +0000
-
 categories: game
-
 author: Ciaran Jefferson
-
 ---
 
-Brainstormed some ideas within the group Google doc for minigames that can be designed and programmed at a later date.
+Myself and Joseph brainstormed around 35 different ideas for minigames that could be implemented into the Microbit Minigame Mashup game with a variety of different themes and controls that can be designed and implemented into the game at a later date.

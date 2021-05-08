@@ -6,4 +6,4 @@ categories: game
 author: Joseph Dale
 ---
 
-I have added a backing track to the, Which path minigame to make the game more fun and have improved the animation of the character.
+I have added a backing track to the Which path minigame to make the game more fun and engaging.

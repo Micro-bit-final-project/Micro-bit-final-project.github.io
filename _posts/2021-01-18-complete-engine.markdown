@@ -6,4 +6,4 @@ categories: game
 author: Giuseppe Barillari  
 ---  
 
-The engine minigame is now complete. All the sound effects are in the game and the transition screens are working as expected. The user is also given directions on how to play.
+The engine minigame is now complete. All the sound effects are in the game, and the transition screens are working as expected. Furthermore, the user is given directions on how to play.

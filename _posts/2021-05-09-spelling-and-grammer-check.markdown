@@ -6,4 +6,4 @@ categories: game
 author: Joseph Dale
 ---
 
-As the deadline hand in date for the project journal draws closer, i have gone through the whole journal looking for spelling and grammatical errors to ensure that the journal is better and more professional.  
+As the deadline hand in date for the project journal draws closer, I have gone through the whole journal looking for spelling and grammatical errors to ensure that the journal is better and more professional.

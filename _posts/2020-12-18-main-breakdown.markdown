@@ -7,4 +7,4 @@ author: Giuseppe Barillari
 ---
 
 The described changes are strictly relative to the microbit code.
-A big main function is often annoying to work with and it also is hard to read. Hence, the main function has been split into smaller functions. Furthermore, every function which was not the main function has been moved to a different file. A header file has been introduced, "serial_helper.h": this file contains the declarations of useful functions. Those functions are crucial for the communication between the computer and the microbit, amd their definitions are in "serial_helper.cpp".
+A big main function is often annoying to work with, and it also is hard to read. Hence, the main function has been split into smaller functions. Furthermore, every function which was not the main function has been moved to a different file. A header file has been introduced, "serial_helper.h": this file contains the declarations of useful functions. Those functions are crucial for the communication between the computer and the microbit, and their definitions are in "serial_helper.cpp".

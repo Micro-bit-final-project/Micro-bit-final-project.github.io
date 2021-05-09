@@ -6,5 +6,5 @@ categories: game
 author: Giuseppe Barillari
 ---
 
-The current microbit program has been moved to a test file so it does not get compiled anymore. That is because the initial joystick program has been introduced.
-It has very limited functionality as of now, as it is only able to send gestures identifiers, using the onboard gyroscope. And from now on, the microbit will not wait for confirmation before sending more data by default.
+The current microbit program has been moved to a test file not to get compiled anymore. That is because I introduced the initial joystick program has.
+It has currently minimal functionality, as it can only send gestures identifiers using the onboard gyroscope. Moreover, from now on, the microbit will not wait for confirmation before sending more data by default.

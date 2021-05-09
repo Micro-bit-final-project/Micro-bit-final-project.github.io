@@ -6,5 +6,4 @@ categories: game
 author: Giuseppe Barillari  
 ---  
 
-
-Before going into the main menu, the game will now wait for the user to connect a microbit controller. When a microbit is connected an animation pops up and the user is redirected to the main menu.
+Before going into the main menu, the game will now wait for the user to connect a microbit controller. When a microbit is connected, an animation pops up, and the game loads the main menu.

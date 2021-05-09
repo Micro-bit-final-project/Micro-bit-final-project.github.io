@@ -32,7 +32,10 @@ links=( "https://micro-bit-final-project.github.io/groundwork/2020/12/13/groundw
 	"https://micro-bit-final-project.github.io/game/2021/04/17/credits.html"
 	"https://micro-bit-final-project.github.io/game/2021/04/21/which-path.html"
 	"https://micro-bit-final-project.github.io/game/2021/04/24/finishing-off-which-path-minigame.html"
-	"https://micro-bit-final-project.github.io/game/2021/05/07/wheelie-is-back.html"  );
+	"https://micro-bit-final-project.github.io/game/2021/05/07/wheelie-is-back.html"
+	"https://micro-bit-final-project.github.io/game/2021/05/08/pdf-packaging.html"
+	"https://micro-bit-final-project.github.io/game/2021/05/09/spelling-and-grammer-check.html"
+	"https://micro-bit-final-project.github.io/game/2021/05/09/proofreading.html" );
 
 # Iterate through each link
 counter=0
@@ -68,7 +71,7 @@ do
                 $(pdfunite $i.pdf tmp.pdf TMP.pdf);
         fi
 
-        if ((i==31)); then
+        if ((i==34)); then
 		$(pdfunite first_page.pdf TMP.pdf blog.pdf);
                 $(rm TMP.pdf 2> /dev/null);
                 $(rm tmp.pdf 2> /dev/null);

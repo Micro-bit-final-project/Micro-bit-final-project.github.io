@@ -30,6 +30,7 @@ links=( "https://micro-bit-final-project.github.io/groundwork/2020/12/13/groundw
 	"https://micro-bit-final-project.github.io/video/2021/04/15/voice-recording.html"
 	"https://micro-bit-final-project.github.io/video/2021/04/15/refining-advert.html"
 	"https://micro-bit-final-project.github.io/game/2021/04/17/credits.html"
+	"https://micro-bit-final-project.github.io/video/2021/04/18/adding-voiceover.html"
 	"https://micro-bit-final-project.github.io/game/2021/04/21/which-path.html"
 	"https://micro-bit-final-project.github.io/game/2021/04/24/finishing-off-which-path-minigame.html"
 	"https://micro-bit-final-project.github.io/game/2021/05/07/wheelie-is-back.html"
@@ -46,7 +47,7 @@ do
 	if ((counter==6)) || ((counter==10)) || ((counter==22)); then
 		$(mv tmp.pdf mu-tmp.pdf);
 	else
-		if ((counter==7)) || ((counter==25)); then
+		if ((counter==7)) || ((counter==25)) || ((counter==31)); then
 			$(mutool poster -y 2 tmp.pdf mu-tmp.pdf);
 		else
 			$(mutool poster -y 5 tmp.pdf mu-tmp.pdf);
@@ -71,7 +72,7 @@ do
                 $(pdfunite $i.pdf tmp.pdf TMP.pdf);
         fi
 
-        if ((i==34)); then
+        if ((i==35)); then
 		$(pdfunite first_page.pdf TMP.pdf blog.pdf);
                 $(rm TMP.pdf 2> /dev/null);
                 $(rm tmp.pdf 2> /dev/null);

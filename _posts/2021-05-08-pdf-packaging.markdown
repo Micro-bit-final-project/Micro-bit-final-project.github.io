@@ -7,5 +7,5 @@ author: Giuseppe Barillari
 ---
 
 I finished writing the bash script that packages the blog posts as a PDF document for the final hand-in.
-I also create a first page for the document in LaTeX, that briefly explains how to get to the blog and
+I also created a first page for the document in LaTeX, that briefly explains how to get to the blog and
 where to find all the project resources.

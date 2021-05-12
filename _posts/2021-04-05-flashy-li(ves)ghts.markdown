@@ -10,3 +10,5 @@ A life system has just been introduced into the game. In the beginning, the play
 <br>
 <br>
 ![Schematic](/res/shift-register-schematic.png "Schematic")
+<br>
+Note that the blue flags symbolise the microbit's pins.

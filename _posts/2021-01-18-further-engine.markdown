@@ -10,4 +10,5 @@ The engine minigame has been implemented to use the DC motor in the inventor's k
 <br>
 <br>
 ![alt text](/res/motor-schematic.png "Schematic")
-
+<br>
+Note that the blue flags symbolise the microbit's pins.

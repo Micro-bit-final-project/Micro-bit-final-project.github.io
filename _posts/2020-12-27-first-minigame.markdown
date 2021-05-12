@@ -9,5 +9,7 @@ With the barebone menu of the game ready, it was time to start the actual game d
 <br>
 <br>
 ![alt text](/res/pot-schematic.png "Schematic")
+<br>
+Note that the blue flags symbolise the microbit's pins.
 
 [wwre]: https://www.mariowiki.com/WarioWare_(series)
